@@ -7,4 +7,4 @@ Abaixo é possível ver uma análise caracterizando o perfil do usuário que rea
 - Compra em sua maioria peças de vestuário
 
 
-![](Report/Análise_Trimestral_de_Transações-1.png)
+![](Report/Análise_Trimestral_de_Transações.pdf)
