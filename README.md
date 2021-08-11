@@ -1,5 +1,5 @@
 Abaixo é possível ver uma análise caracterizando o perfil do usuário que realiza compras na Google Merchandise Store. Podemos ver que esse público:
-- Tem entre 18 a 44 anos
+- Tem entre 18 e 44 anos
 - Apresenta uma parcela maior de homens em relação a mulheres
 - Reside nos Estados Unidos
 - Realiza a maior parte das transações por desktop (computador)
